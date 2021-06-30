@@ -1,6 +1,5 @@
 === zaerl Wordpress 3 integration ===
 Contributors: zaerl
-Donate link: http://bit.ly/cJKknC
 Tags: wordpress 3, wordpress, deep integration, integration
 Requires at least: 1.0.2
 Tested up to: 1.0.2
